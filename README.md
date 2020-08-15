@@ -1,4 +1,4 @@
-![Matrix](/tenor.gif)
+![Matrix](https://github.com/jjxtra/jjxtra/raw/master/tenor.gif)
 
 <!--
 <pre>

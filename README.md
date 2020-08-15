@@ -1,4 +1,4 @@
-<img src='tenor.gif' />
+![Matrix](/tenor.gif)
 
 <!--
 <pre>

@@ -1,7 +1,5 @@
-![Matrix](https://github.com/jjxtra/jjxtra/raw/master/tenor.gif)
-
-<!--
-<pre>
+Software engineer since age 7. Still learning how to write bug free code :)<br/>
+<pre style='background-color: #000000;'>
                                              __----~~~~~~~~~~~------___
                                   .  .   ~~//====......          __--~ ~~
                   -.            \_|//     |||\\  ~~~~~~::::... /~
@@ -21,4 +19,3 @@
                               //.-~~~-~_--~- |-------~~~~~~~~
                                      //.-~~~--\
 </pre>
--->

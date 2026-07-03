@@ -1,12 +1,6 @@
 <p>Software engineer since age 7. Still learning how to write bug free code :)</p>
 <p>I believe strongly in writing software to make the world a better place.</p>
-<p>My links:</p>
-<ul>
-  <li><a href='https://ipban.com'>IPBan Pro</a></li>
-  <li><a href='https://www.digitalruby.com'>My Company Website</a></li>
-  <li><a href='https://www.linkedin.com/in/jjxtra/'>Linked In</a></li>
-  <li><a href='https://stackoverflow.com/users/56079/jjxtra'>Stackoverflow</a></li>
-</ul>
+<p><a href='https://jeffjohnson.vip'>All about me</a></p>
 <p>Here are the main projects I am involved with:</p>
 <ul>
 <li><a href='https://ipban.com'>IPBan Pro, top software on the planet to secure your servers from attacks, creating a mesh of all your machines.</a></li>

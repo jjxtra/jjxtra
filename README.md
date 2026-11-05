@@ -12,8 +12,6 @@
 </ul>
 <br/>
 
-[![Jeff Johnson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjxtra&theme=dark#gh-dark-mode-only)](https://github.com/jjxtra/github-readme-stats)
-
 <br/>
 <pre style='background-color: #000000;'>
                                              __----~~~~~~~~~~~------___
